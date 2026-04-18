@@ -18,4 +18,4 @@ While the basic drawing utilities were provided, I was responsible for:
 1. Ensure you have the OpenGL libraries installed.
 2. Run `bash install-libraries.sh` to install dependencies.
 3. Run `make` to compile.
-4. Run `./game` to play.
+4. Run `./word-shooter` to play.
